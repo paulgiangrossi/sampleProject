@@ -1,4 +1,7 @@
-void side(int x)
+int side(int x)
 {
-  return -1;
+  if (x > 0)
+    return 0;
+  else
+    return -1;
 }

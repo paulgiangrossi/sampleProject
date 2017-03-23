@@ -1,3 +1,3 @@
 # sampleProject
 #
-# git push HEAD:refs/for/master
+# git push https://review.gerrithub.io/paulgiangrossi/sampleProject HEAD:refs/for/master" 
